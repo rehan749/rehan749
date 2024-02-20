@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Mahtab Alam, a MERN stack and frontend developer passionate about crafting high-quality web applications. </p>
+<p align="left">I'm Mahtab Alam, a mern stack and frontend developer passionate about crafting high-quality web applications. </p>
 
 ###
 
