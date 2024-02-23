@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Currently, I'm exploring advanced frontend design patterns and techniques. I'd love to connect with experienced developers who can share their insights and best practices in this area.**
 
-- 👨‍💻 All of my projects are available at [rehan749.github.io/mehtab-portfolio/](rehan749.github.io/mehtab-portfolio/)
+- 👨‍💻 All of my projects are available at [rehan749.github.io/mehtab-portfolio/](https://rehan749.github.io/mehtab-portfolio/)
 
 - 💬 Ask me about **Feel free to reach out if you have any questions about MERN stack development, frontend frameworks like React, UI/UX design principles, or anything related to web development!**
 
